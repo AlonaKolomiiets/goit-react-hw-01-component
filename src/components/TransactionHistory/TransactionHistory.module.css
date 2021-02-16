@@ -1,0 +1,18 @@
+.transactionHistory {
+  text-align: center;
+  width: 875px;
+  border: 1px solid cadetblue;
+}
+
+.transactionDescription {
+  text-transform: uppercase;
+  background-color: aquamarine;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  list-style: none;
+}
+
+.transactionDescriptionItem {
+  padding: 10px;
+}

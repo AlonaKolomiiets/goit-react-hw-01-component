@@ -1,0 +1,7 @@
+.transaction:nth-last-child(even) {
+  background-color: lightgray;
+}
+.transaction {
+  color: gray;
+  font-size: 14px;
+}
